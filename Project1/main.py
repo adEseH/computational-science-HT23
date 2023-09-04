@@ -25,7 +25,7 @@ class Irsing():
 
 
     def MC_step(self, s):
-        # Anna
+        # Annas part
         T = self.T
         # steps 1-3 p.12
 
