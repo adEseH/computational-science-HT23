@@ -25,6 +25,7 @@ class Irsing():
 
 
     def MC_step(self, s):
+        # Anna
         T = self.T
         # steps 1-3 p.12
 
@@ -32,24 +33,31 @@ class Irsing():
         # returns a stencil given a coordinate
 
     def run_simulation(self):
+        # Anna
         # initialise
         
         for i in range():
 
     def get_E(self):
+        # Carmen
         # calculate the energy
 
     def write_E():
+        # Theo
 
     def plot_state(self):
+        # Theo
 
 
 
 def plot_energies(self):
+    # Carmen
+    # taking averages, etc.
     
 
 
 if __name__ == '__main__':
     # main starts here
+    # designing experiments: Anna, Theo, Carmen
 
 
